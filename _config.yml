@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Writing posts about cryptography as a countermeasure against my bad memory. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://k0v4l3vsk4y4.github.io"
+url: 'https://k0v4l3vsk4y4.github.io'
 
 github:
   username: k0v4l3vsk4y4 # change to your github username
