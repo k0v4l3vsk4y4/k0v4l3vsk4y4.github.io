@@ -27,10 +27,10 @@ description: Writing posts about cryptography as a countermeasure against my bad
 url: "https://k0v4l3vsk4y4.github.io"
 
 github:
-  username: github_user # change to your github username
+  username: github_username # change to your github username
 
 twitter:
-  username: twitter_user # change to your twitter username
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
