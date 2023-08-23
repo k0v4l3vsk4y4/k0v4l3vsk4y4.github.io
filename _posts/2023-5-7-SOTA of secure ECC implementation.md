@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notas. State of the art of secure ECC implementations (2010)
-categories: [notes]
+categories: [papers]
 tags: [ecc, sc]
 ---
 
