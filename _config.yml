@@ -22,8 +22,7 @@ title: CryptoNotes # the main title
 
 tagline: Cryptographic Chronicles # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  Writing posts about cryptography as a countermeasure against my bad memory.
+description: Writing posts about cryptography as a countermeasure against my bad memory.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
