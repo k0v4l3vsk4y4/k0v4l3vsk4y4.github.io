@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notas. State of the art of secure ECC implementations (2010)
-tags: [ecc, fi, sc]
+tags: [ecc, sc]
 ---
 
 ### State-of-the-art of secure ECC implementations: a survey on known side-channel attacks and countermeasures*
