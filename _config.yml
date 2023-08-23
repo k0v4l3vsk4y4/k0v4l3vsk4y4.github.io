@@ -24,7 +24,7 @@ title: CryptoNotes # the main title
 tagline: Cryptographic Chronicles # it will display as the sub-title
 # tagline: A text-focused Jekyll theme # it will display as the sub-title
 
-description: description: >- # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   Writing posts about cryptography as a countermeasure against my bad memory.
 
 
