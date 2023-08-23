@@ -25,10 +25,10 @@ tagline: Cryptographic Chronicles # it will display as the sub-title
 description: Writing posts about cryptography as a countermeasure against my bad memory.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://k0v4l3vsk4y4.github.io"
+url: 'https://k0v4l3vsk4y4.github.io'
 
 github:
-  username: k0v4l3vsk4y4 # change to your github username
+  username: @k0v4l3vsk4y4 # change to your github username
 
 social:
   # Change to your full name.
@@ -38,6 +38,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/k0v4l3vsk4y4 # change to your github homepage
+    - https://www.linkedin.com/in/taniadiaz
     # Uncomment below to add more social links
     # - https://www.linkedin.com/in/taniadiaz
 
