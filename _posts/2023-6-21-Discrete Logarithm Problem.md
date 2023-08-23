@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Discrete Logarithm Problem
+categories: [concepts]
 tags: [crypto]
 ---
 
