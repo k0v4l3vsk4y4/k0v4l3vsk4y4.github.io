@@ -24,7 +24,8 @@ tagline: Cryptographic Chronicles # it will display as the sub-title
 
 description: Writing posts about cryptography as a countermeasure against my bad memory.
 
-url: "https://k0v4l3vsk4y4.github.io"
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: ""
 
 github:
   username: github_username # change to your github username
@@ -32,21 +33,19 @@ github:
 twitter:
   username: twitter_username # change to your twitter username
 
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: your_full_name
   email: example@domain.com # change to your email address
-
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
-
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    # - https://www.linkedin.com/in/taniadiaz
 
 google_site_verification: # fill in to your verification string
 
