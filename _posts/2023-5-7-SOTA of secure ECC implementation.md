@@ -4,6 +4,7 @@ title: Notas. State of the art of secure ECC implementations (2010)
 categories: [papers]
 tags: [ecc, sc]
 ---
+
 ### State-of-the-art of secure ECC implementations: a survey on known side-channel attacks and countermeasures*
 \* Notas del paper:  https://www.esat.kuleuven.be/cosic/publications/article-1461.pdf
 hoka
@@ -23,4 +24,4 @@ Los ataques buscaran explotar una de estas dos:
 
 El siguiente esquema muestra la relación entre las distintas contramedidas y ataques. Tener en cuenta que algunas contramedidas protegen ante algunos ataques pero, a la vez, lo hacen vulnerable ante otros.
 
-![](/assets/contramedidasECC.png)
+![](/images/contramedidasECC.png)
