@@ -24,4 +24,4 @@ Los ataques buscaran explotar una de estas dos:
 
 El siguiente esquema muestra la relación entre las distintas contramedidas y ataques. Tener en cuenta que algunas contramedidas protegen ante algunos ataques pero, a la vez, lo hacen vulnerable ante otros.
 
-![](/images/contramedidasECC.png)
+![](/img/contramedidasECC.png)
