@@ -76,10 +76,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://github.com/k0v4l3vsk4y4/k0v4l3vsk4y4.github.io/blob/main/assets/img/dalleLOGO.png
+img_cdn: https://github.com/k0v4l3vsk4y4/k0v4l3vsk4y4.github.io/blob/main/
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/k0v4l3vsk4y4/k0v4l3vsk4y4.github.io/blob/main/assets/img/dalleLOGO.png
+avatar: assets/img/dalleLOGO.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
