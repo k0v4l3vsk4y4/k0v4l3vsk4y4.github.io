@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn: https://github.com/k0v4l3vsk4y4/k0v4l3vsk4y4.github.io/blob/main/assets/img/
 
 # the avatar on sidebar, support local or CORS resources
-avatar: dalleLOGO.png
+avatar: /dalleLOGO.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
