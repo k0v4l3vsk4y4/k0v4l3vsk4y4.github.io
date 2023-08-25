@@ -4,7 +4,6 @@ title: Discrete Logarithm Problem
 categories: [concepts]
 tags: [crypto]
 ---
-
 ### Discrete Logarithm Problem
 
 # Introducción
