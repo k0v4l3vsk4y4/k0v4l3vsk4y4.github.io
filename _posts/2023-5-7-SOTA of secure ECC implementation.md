@@ -4,7 +4,6 @@ title: Notas. State of the art of secure ECC implementations (2010)
 categories: [papers]
 tags: [ecc, sc]
 ---
-
 ### State-of-the-art of secure ECC implementations: a survey on known side-channel attacks and countermeasures*
 \* Notas del paper:  https://www.esat.kuleuven.be/cosic/publications/article-1461.pdf
 hoka
